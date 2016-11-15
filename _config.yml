@@ -38,7 +38,7 @@ roles:
    end: Actual
    employer: TCPIP
    description: Desarrollo de producto de reservaciones de boletos para aerolineas.
-- title: Gerente de desarrollo
+ - title: Gerente de desarrollo
    start: 2008
    end: 2016
    employer: Tralix
