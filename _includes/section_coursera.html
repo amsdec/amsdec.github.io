@@ -9,11 +9,11 @@
 				<div class="row">
 					{% if course.optionalimage %}
 						<div class="col-sm-5">
-							<img src="{{course.optionalimage}}">
+							<img src="{{course.optionalimage}}" width="240px">
 						</div>
 					{% endif %}
 					<div class="col-sm-6">
-						<a target='_blank' href="{{course.link}}" width="240px">
+						<a target='_blank' href="{{course.link}}">
 							{{course.title}}
 						</a><br/>
 						<i>{{course.date}}</i>
