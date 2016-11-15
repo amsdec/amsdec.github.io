@@ -33,28 +33,27 @@ blogfeed: http://amontellano.blogspot.com/feeds/posts/default
 
 #Work experience is required
 roles:
- - title: Senior Engineer
+ - title: Ingeniero de Software
    start: 2016
-   end: Ongoing
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
+   end: Actual
+   employer: TCPIP
+   description: Desarrollo de producto de reservaciones de boletos para aerolineas.
+   start: 2008
    end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+   employer: Tralix
+   description: Desarrollo de apliaciones de facturación electrónica e email marketing de alta disponibilidad y resistente a fallos para soporte a servicios ofrecidos por la empresa.
+ - title: Ingeniero de Software
+   start: 2006
+   end: 2008
+   employer: OpenRoad
+   description: Modificaciones a software de distintos canales de comunicación con el cliente final para empresas del sector financiero.
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Ingeniero en sistemas computacionales
+   date: 2006
+   subject: Bases de datos
+   school: Instituto Tecnológico de Querétaro
 
 #This section is optional (as is the image link below)
 coursera:
