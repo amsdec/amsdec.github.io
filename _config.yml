@@ -58,16 +58,16 @@ education:
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   profileurl: https://www.coursera.org/user/i/0ac17c4f1ea5b664e631fee0e242c275
    courses:
     - title: Functional Programming Principles in Scala
       link: https://www.coursera.org/course/progfun
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+      date: September, 2014
+    - title: Programming Mobile Applications for Android Handheld Systems
+      link: https://www.coursera.org/course/android
+      optionalimage: https://coursera-course-photos.s3.amazonaws.com/5c/9fcef0feaa11e49d7ccbc529516477/Screen-Shot-2015-05-19-at-9.40.26-PM.png
+      date: Junio, 2014
 
 #List of interesting Github repo/projects to include - optional
 github:
