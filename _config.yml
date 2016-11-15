@@ -66,7 +66,7 @@ coursera:
       date: September, 2014
     - title: Programming Mobile Applications for Android Handheld Systems
       link: https://www.coursera.org/course/android
-      optionalimage: https://coursera-course-photos.s3.amazonaws.com/5c/9fcef0feaa11e49d7ccbc529516477/Screen-Shot-2015-05-19-at-9.40.26-PM.png
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/5c/9fcef0feaa11e49d7ccbc529516477/Screen-Shot-2015-05-19-at-9.40.26-PM.png?auto=format&dpr=2&w=200&h=112&fit=crop
       date: Junio, 2014
 
 #List of interesting Github repo/projects to include - optional
