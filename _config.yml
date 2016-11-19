@@ -81,6 +81,6 @@ github:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Agil</strong>: Soy creyente y practico los valores del agilismo, así como sus rituales y mejores prácticas, creo en las personas y en que con una gran motivacion pueden explotar al máximo sus capacidades.
-   <strong>Management 3.0</strong>: Durante mi tiempo como lider de equipo y gerente llevé acabo algúnas prácticas relacionadas con management 3.0, entre ellas el hehco de que el equipo decida lo más que se pueda lo relacionado a él mismo.
-   <strong>Ciclo de vida del desarrollo</strong>: Entiendo y he estado en tareas de entregas contínuas implementando pipelines desde el inicio del proyect hasta el despliegue pasando por pruebas automatizadas.
+   <strong>Agil</strong>: Soy creyente y practico los valores del agilismo, así como sus rituales y mejores prácticas, creo en las personas y en que con una gran motivacion pueden explotar al máximo sus capacidades. <br/></br>
+   <strong>Management 3.0</strong>: Durante mi tiempo como lider de equipo y gerente llevé acabo algúnas prácticas relacionadas con management 3.0, entre ellas el hehco de que el equipo decida lo más que se pueda lo relacionado a él mismo. <br/></br>
+   <strong>Ciclo de vida del desarrollo</strong>: Entiendo y he estado en tareas de entregas contínuas implementando pipelines desde el inicio del proyect hasta el despliegue pasando por pruebas automatizadas. <br/></br>
